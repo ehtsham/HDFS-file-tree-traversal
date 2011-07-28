@@ -1,0 +1,2 @@
+This java program performs File Tree Traversal in Hadoop's HDFS, the algorithm being used
+is recursive Depth First search.
